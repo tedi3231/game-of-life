@@ -18,7 +18,7 @@ public class Universe {
     private Grid currentGridContent;
 
 	// Default constructor, called on "NEW GAME" button click
-    public universe() {
+    public Universe() {
         currentGridContent = new Grid();
     }
 	// Create blank grid of given size, called on "Go" button click 
